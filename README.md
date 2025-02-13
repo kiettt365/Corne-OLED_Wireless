@@ -10,4 +10,6 @@ Action workflow sẽ chạy để build firmware.
 
 Build xong tải firmware bằng nút `download` ở dưới cùng bên phải.
 
+Tắt bluetooth cả 2 bên trước khi kết nối để chép phần mềm vào
+
 Cắm dây vào corne bên trái --> bấm giữ nút `reset` (nằm dưới cover của màn hình, phải tháo cover ra) 5 giây --> thả ra và nhấn liền 1 cái nữa --> ổ đĩa hiện ra thì kéo file bên `left` vào chờ chạy và test lại keymap xem đúng chưa.
